@@ -96,8 +96,7 @@ class ColorTable:
 
 # %%
 foo = ColorTable()
-foo.load_table("test1.txt")
-print(foo.solve())
-
+foo.load_table("test4.txt")
+foo.solve()
 
 
